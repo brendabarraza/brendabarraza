@@ -3,9 +3,9 @@
 
 # Hi, I'm Brenda 
 
-______________________________
+I am a software developer and cybersecurity enthusiast, I like to learn everything related to this and share my projects and ideas.
 
-2__________________________
+here you'll find some things i've been working on
 
 ## About me 
 
