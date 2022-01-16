@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src=20220115_134308.gif>
+<img align="center"  src=https://i.pinimg.com/originals/7a/26/24/7a2624c6762fa4775852ef6f1d5af1fb.gif>
 
 
 # Hi, I'm Brenda 
